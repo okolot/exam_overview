@@ -35,4 +35,4 @@ me.get_list_modules()
 me.get_grades()
 # expected output:
 # Grades of Student FirstName LastName:
-#	Info 1: 6
+#	Info 1: 6 blabla
